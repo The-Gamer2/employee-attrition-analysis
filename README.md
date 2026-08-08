@@ -40,7 +40,6 @@ The analysis focuses on understanding the business problem, inspecting the datas
 ## Files in this Repository
 - `Employee_Attrition_Analysis.ipynb` — main notebook.
 - `README.md` — project documentation.
-- `Dataset_Inspection_Report.pdf` 
 
 ## Tools Used
 - Python
